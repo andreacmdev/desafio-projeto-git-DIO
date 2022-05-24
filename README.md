@@ -1,4 +1,5 @@
 # desafio-projeto-git-DIO
+<<<<<<< HEAD
 ### Organograma de Estudos Semanais:books:
 
 - Segunda - Feira: [Programa Start By Capgemini] (http://capgeminischool.brazilsouth.cloudapp.azure.com/course/view.php?id=77)
@@ -8,3 +9,6 @@
 - Sexta - Feira: [Inglês Básico] (https://app.kultivi.com/dashboard/course/ingles)
 - Sábado: Resolução de Lista de exercícios JAVA
 - Domingo: [Descanso] (https://www.netflix.com/br/)
+=======
+Repositório criado para Desafio do Projeto
+>>>>>>> 0354c478eb638eaf1072aed11eebec0042ae0b41
