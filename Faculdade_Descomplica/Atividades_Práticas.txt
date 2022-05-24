@@ -1,0 +1,21 @@
+# Atividades Práticas do Semestre
+
+### Primeiro Algoritmo
+
+- Objetivos: Praticar lógica de programação e desenvolvimento de algoritmos
+- Atividade Prática: Desenvolva um algoritmo em pseudocódigo para mostrar alguma informação na tela, pode ser um nome, uma frase ou um texto sucinto (utilize apenas um comando)
+
+### Alteração de Tipos de Dados
+
+- Objetivos: Praticar lógica de programação e desenvolvimento de algoritmos
+- Atividade: desenvolva um algoritmo em pseudocódigo onde os valores nome, idade, altura e criança sejam diferentes do algoritmo exemplo abaixo.
+
+### Maior Número
+
+- Objetivos: Praticar lógica de programação e desenvolvimento de algoritmos
+- Atividade:  Com os conhecimentos adquiridos até agora, desenvolva um algoritmo em pseudocódigo que solicita ao usuário digitar 2 números. Após o usuário digitar teste se o primeiro número digitado é menor que o segundo número digitado, se verdadeiro mostre na tela o número maior, senão mostre os 2 números digitados.
+
+### Média das Notas da Turma
+
+- Objetivos: Praticar lógica de programação e desenvolvimento de algoritmos
+- Com os conhecimentos adquiridos até agora, desenvolva um algoritmo em pseudocódigo que solicite ao usuário 10 nomes e 10 notas e calcule a média das notas da turma. Apresente na tela, o índice do vetor, os nomes, as notas e o resultado da média

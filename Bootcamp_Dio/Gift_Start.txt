@@ -1,0 +1,33 @@
+# Módulos do Bootcamp
+
+### Módulo I
+
+- Introdução à programação e pensamento computacional
+- Introdução ao Git/GitHub
+
+### Módulo II - Setup
+
+- Dominando IDEs Java
+
+### Módulo III - Java Fundamental
+
+- Variáveis, tipos de dados e operadores matemáticos em Java
+- Entendendo Métodos Java
+- Lógica condicional e controle de fluxos em Java
+- Estruturas de repetição e Arrays em Java
+- Trabalhando com collections Java
+
+### Módulo IV - Java Essencial
+
+- Debugging Java
+- Tratamento de exceções em Java
+- Programação orientada a objetos
+
+### Módulo V - Arquitetura de Sistemas
+
+- Conhecendo os principais protocolos de comunicação da internet
+
+### Módulo VI - Java Avançado
+
+- Simplificando projetos Java com o Spring Boot
+

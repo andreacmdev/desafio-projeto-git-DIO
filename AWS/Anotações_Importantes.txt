@@ -1,0 +1,25 @@
+# AWS ANOTAÇÕES
+
+
+
+### Conformidade com governança de dados e requisitos legais
+
+Dependendo da sua empresa e localização, talvez seja necessário executar seus dados em áreas específicas. Por exemplo, se sua empresa exige que todos os dados residam dentro dos limites do Reino Unido, você deve escolher a Região Londres.
+
+Nem todas as empresas têm regulamentações de dados específicas para a localização, portanto, você pode precisar se concentrar nos outros três fatores.
+
+
+
+### Proximidade com os clientes
+
+A seleção de uma Região próxima de seus clientes ajudará você a obter o conteúdo com mais rapidez. Por exemplo, sua empresa está sediada em Washington, DC, e muitos de seus clientes residem em Singapura. Você pode considerar executar sua infraestrutura na Região Norte da Virgínia por estar perto da sede da empresa e executar os aplicativos a partir da Região Singapura.
+
+### Serviços disponíveis em uma Região
+
+Às vezes, a Região mais próxima pode não ter todos os recursos que você deseja oferecer aos clientes. A AWS inova frequentemente ao criar novos serviços e expandir recursos em serviços existentes. No entanto, disponibilizar novos serviços em todo o mundo às vezes exige que a AWS desenvolva o hardware físico de cada Região por vez.
+
+Suponha que seus desenvolvedores queiram criar um aplicativo que use o Amazon Braket (plataforma de computação quântica da AWS). Neste curso, o Amazon Braket ainda não está disponível em todas as Regiões AWS em todo o mundo, por isso, os desenvolvedores precisariam executá-lo em uma das Regiões que já o oferece.
+
+### Definição de preços
+
+Suponha que você pretenda executar aplicativos nos Estados Unidos e no Brasil. Com a estrutura tributária do Brasil, pode custar 50% mais caro executar a mesma carga de trabalho na Região São Paulo em comparação com a Região Oregon. Você aprenderá com detalhes que vários fatores determinam o preço, mas, por enquanto, saiba que o custo dos serviços pode variar entre as regiões.

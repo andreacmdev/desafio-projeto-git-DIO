@@ -1,0 +1,21 @@
+# Lista de Exercício
+
+### A Linguagem Java
+
+- Escreva um algoritmo que leia o nome de um vendedor, o seu salário fixo e o total de vendas efetuadas por ele no mês (em dinheiro). Sabendo que este vendedor ganha 15% de comissão sobre suas vendas efetuadas, informar o seu nome, o salário fixo e salário no final do mês.
+- Leia dois valores para as variáveis A e B, e efetuar as trocas dos valores de forma que a variável A passe a possuir o valor da variável B e a variável B passe a possuir o valor da variável A. Apresentar osvalores trocados.
+- Leia uma temperatura em graus Celsius e apresentá-la convertida em graus Fahrenheit. A fórmula de conversão é:F=(9*C+160) / 5, sendo F a temperatura em Fahrenheit e C a temperatura em Celsius;
+- Elabore um algoritmo que efetue a apresentação do valor da conversão em real (R$) de um valor lido em dólar (US$). O algoritmo deverá solicitar o valor da cotação do dólar e também a quantidade de dólares disponíveis com o usuário;
+
+### Programação Orientada a Objetos
+
+- Crie uma classe para representar uma Pessoa com os atributos privados de nome, data de nascimento e altura. Crie os métodos públicos necessários para getters e setters e também um método para imprimir todos dados de uma pessoa. Crie um método para calcular a idade da pessoa.
+- Crie uma classe para implementar uma Conta Corrente. A classe deve possuir os seguintes atributos: número da conta, nome do correntista e saldo. Os métodos são os seguintes: alterar Nome, depósito e saque; No construtor, saldo é opcional, com valor default zero e os demais atributos são obrigatórios.
+- Escreva uma classe cujos objetos representam alunos matriculados em uma disciplina. Cada objeto dessa classe deve guardar os seguintes dados do aluno: matrícula, nome, 2 notas de prova e 1 nota de trabalho. Escreva os seguintes métodos para esta classe: 
+  a. media: calcula a média final do aluno (cada prova tem peso 2,5 e o trabalho tem peso 2) b. final: calcula quanto o aluno precisa para a prova final (retorna zero se ele não for para a final).
+
+### Interfaces Gráficas
+
+- Desenvolva a interface gráfica referente a uma tela de Autenticação/Login em uma aplicação. A tela deve conter os campos de login, senha, uma logo do produto, uma opção para o cadastro e uma opção para a recuperação de senha.
+- Desenvolva uma interface gráfica baseada na tela principal do netbeans (ferramenta de desenvolvimento utilizada durante as aulas).
+- Desenvolva a interface gráfica baseada no sistema de declaração de imposto de renda do governo federal. Caso você tenha alguma dúvida ou queira conferir a interface com maiores detalhes basta baixá-lo através do site da receita federal.
