@@ -1,5 +1,5 @@
 # desafio-projeto-git-DIO
-<<<<<<< HEAD
+
 ### Organograma de Estudos Semanais:books:
 
 - Segunda - Feira: [Programa Start By Capgemini] (http://capgeminischool.brazilsouth.cloudapp.azure.com/course/view.php?id=77)
